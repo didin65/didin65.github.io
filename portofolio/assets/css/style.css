@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../font/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url('../font/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../font/Poppins-Regular.ttf');
+}
+
+.card-title {
+    font-family:  'Poppins-Bold';
+}
+.card-subtitle {
+    font-family:  'Poppins-SemiBold';
+}
+
+
+.img-position {
+    margin-left: 43.8%;
+    margin-top: 4%;
+}
+.size-card {
+    width: 40rem;
+    margin-left: 27%;
+    border: none;
+}
+.text-body {
+    text-align: center;
+}
+.col-1 a {
+    color: rgb(4, 20, 46);
+}
+.col-3 a {
+    text-decoration: none;
+}
+
+span {
+    text-decoration: none;
+    font-size: 14pt;
+    color: rgb(4, 20, 46);
+    font-family:  'Poppins-SemiBold';
+}
+
+.style-text {
+    font-family: 'Poppins-Regular';
+    font-size: 12pt;
+    font-weight: 400;
+}
+.btn {
+    width: 180px;
+    height: 50px;
+    padding-top: 12px;
+    font-family:  'Poppins-SemiBold';
+    font-size: 12pt;
+}
+.btn:hover {
+    background-color: #ffffff;
+    border-radius: 10px;
+    transition: 0.5s;
+    color: #2f3542;
+}
+
+.kotak {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(222, 224, 228);
+    border-radius: 5px;
+}
+
+.navbar {
+    width: 32rem;
+    height: 70px;
+    margin-left: 29%;
+    margin-top: 6%;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    background-color: #dfe6e9;
+}
+
+
